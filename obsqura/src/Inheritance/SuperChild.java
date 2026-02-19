@@ -7,7 +7,7 @@ public class SuperChild extends SuperParent {
 	{
 		super.display();
 		System.out.println(super.s);
-		System.out.println("This is a Child Class");
+		System.out.println("This is a Child Class");//
 		
 	}
 	
